@@ -1,0 +1,11 @@
+{
+  "functions": {
+    "targets": [
+      "Infosight_Pro"
+    ],
+    "ignore": [
+      ".output"
+    ],
+    "source": "functions"
+  }
+}

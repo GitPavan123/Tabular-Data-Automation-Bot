@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="httpclient5-5.2.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/functions/Infosight_Pro/lib/Dependencies/httpclient5-5.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
